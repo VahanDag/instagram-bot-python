@@ -54,6 +54,3 @@ python instabot.py
 
 The bot will log in using the provided credentials and start commenting on recent posts.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
